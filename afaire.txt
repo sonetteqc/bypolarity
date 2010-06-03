@@ -1,0 +1,3 @@
+FX, il faut que tu fasses SVN update la premiere chose en arrivant le matin...
+
+Je le modifie et le commit
